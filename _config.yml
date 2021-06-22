@@ -15,18 +15,18 @@ email: vucuong.marketing@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Cuong Pham 
+    display_name: CuongPM
     avatar: 'assets/images/avatar-sal.png'
     email: vucuong.marketing@gmail.com
-    web: https://vietnamcrypto.github.io
-    twitter: https://twitter.com/wowthemesnet
+    web: https://cuongsocial.com
+    twitter: https://www.facebook.com/cuong.phamvu.7796/
     description: "We passionate about blockchain and crypto currency."
   john:
-    name: VietNam Crypto 
-    display_name: VietNam Crypto 
+    name: Nam Lee 
+    display_name: Nam Lee 
     avatar: 'assets/images/avatar.png'
-    email: vucuong.marketing@gmail.com
+    email: hoainam19031997@gmail.com
     web: https://vietnamcrypto.github.io
     twitter: https://twitter.com/wowthemesnet
     description: "We passionate about blockchain and crypto currency."
