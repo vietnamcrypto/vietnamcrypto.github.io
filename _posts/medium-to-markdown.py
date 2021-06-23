@@ -98,12 +98,12 @@ if __name__ == "__main__":
 
         new_content = (
             f"""---
-published: true
+layout: post
 title: "{title.replace('-', ' ').title()}"
 date: {date}
-categories:
-  -
-  -
+author: sal
+categories: [ Lifestyle ]
+image: assets/images/dodge.jpg
 ---
 """
             + new_content
