@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dogecoin là gì? Nghe tên gọi có vẻ dễ thương nhưng ẩn sâu bên trong đó là điều gì đang chờ đón chúng ta?"
+title:  "Những khái niệm cơ bản của Blockchain"
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg
