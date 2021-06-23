@@ -4,6 +4,7 @@ title:  "Tìm hiểu về Litecoin- huy chương Bạc trong làng cryptocurrenc
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/litecoin.jpg
+rating: 4.5
 ---
 ### Thông tin sơ lược
 Litecoin được ra mắt lần đầu vào tháng 10/ 2011 bởi Charlie Lee- cựu nhân viên của Google. Litecoin (LTC) được tạo ra như một phiên bản “nhẹ” hơn so với Bitcoin (BTC). Trong khi Bitcoin sử dụng nền tảng mã hóa SHA256 thì Litecoin đã tiên tiến hơn với Scrypt đã cho phép miners có thể cùng lúc khai thác cả Bitcoin lẫn Litecoin mà không sợ xung đột hệ thống. 

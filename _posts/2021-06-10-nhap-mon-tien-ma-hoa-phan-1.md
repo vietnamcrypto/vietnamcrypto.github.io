@@ -4,6 +4,7 @@ title:  "Nhập môn tiền mã hóa (Phần 1: Tổng quan và nhận định s
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/image-58.png
+rating: 4.0
 ---
 Bạn nghe thông tin về bitcoin và các loại tiền mã hóa khác rất nhiều. Có người giàu lên nhờ nó, cũng có người mất trắng vì bị lừa đảo. Bạn muốn tìm hiểu thêm về thị trường này. Cách đơn giản nhất là thử bỏ ra vài chục đô và bước chân vào nó. Trải nghiệm sẽ giúp bạn có cái nhìn đúng đắn nhất .
 
