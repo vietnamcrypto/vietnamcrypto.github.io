@@ -62,7 +62,7 @@ Nếu bạn muốn tìm hiểu thêm về ABI, hãy click vào [đây](https://w
 
 Giờ đã đủ lý thuyết, hãy tạo một vài ABI và mã Byte bằng cách sử dụng nodejs script. Vui lòng vào kho lưu trữ git-hub bên dưới và tải xuống mã.
 
-[
+
 
 abhilashreddyy/hello-world-webdev-with-blockchain
 -------------------------------------------------
@@ -71,7 +71,7 @@ abhilashreddyy/hello-world-webdev-with-blockchain
 
 github.com
 
-](https://github.com/abhilashreddyy/hello-world-webdev-with-blockchain)
+https://github.com/abhilashreddyy/hello-world-webdev-with-blockchain
 
 Trong đó, bạn có thể thấy cấu trúc dữ liệu như sau:
 
