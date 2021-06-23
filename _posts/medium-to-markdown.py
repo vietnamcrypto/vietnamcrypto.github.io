@@ -97,7 +97,7 @@ if __name__ == "__main__":
             new_content = new_content.replace(original, replacement)
 
         new_content = (
-            f"""---
+            f"""--- 
 layout: post
 title: "{title.replace('-', ' ').title()}"
 author: sal
