@@ -5,6 +5,7 @@ author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg
 ---
+
 **Lending and borrowing on the blockchain — should banks be scared?**
 =====================================================================
 
