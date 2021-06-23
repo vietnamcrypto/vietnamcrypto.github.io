@@ -30,7 +30,7 @@ Bước 7: Xây dựng môi trường làm việc chuyên nghiệp với Truffle
 
 Let’s rock & roll.
 
-<img alt="" class="t u v hr aj" src="https://miro.medium.com/max/1920/0\*zwqLFrdB2YsxT-An.png" width="960" height="422" srcSet="https://miro.medium.com/max/552/0\*zwqLFrdB2YsxT-An.png 276w, https://miro.medium.com/max/1104/0\*zwqLFrdB2YsxT-An.png 552w, https://miro.medium.com/max/1280/0\*zwqLFrdB2YsxT-An.png 640w, https://miro.medium.com/max/1400/0\*zwqLFrdB2YsxT-An.png 700w" sizes="700px" role="presentation"/>
+![](https://miro.medium.com/max/1920/0\*zwqLFrdB2YsxT-An.png)
 
 **Bước 2: Tìm hiểu cách thức hoạt động của Blockchain.**
 

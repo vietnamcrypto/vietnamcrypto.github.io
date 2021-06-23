@@ -29,7 +29,7 @@ Chúng ta hãy xem cách chúng hoạt động.
 
 Quan sát hình bên dưới. Toàn bộ lời giải thích của nằm trong hình này. Nó trình bày cách blockchain tương tác với các trang web.
 
-<img alt="" class="t u v ie aj" src="https://miro.medium.com/max/3000/1\*BCiDdxRz34zBj7tRRV8psQ.png" width="1500" height="801" srcSet="https://miro.medium.com/max/552/1\*BCiDdxRz34zBj7tRRV8psQ.png 276w, https://miro.medium.com/max/1104/1\*BCiDdxRz34zBj7tRRV8psQ.png 552w, https://miro.medium.com/max/1280/1\*BCiDdxRz34zBj7tRRV8psQ.png 640w, https://miro.medium.com/max/1400/1\*BCiDdxRz34zBj7tRRV8psQ.png 700w" sizes="700px" role="presentation"/>
+![](https://miro.medium.com/max/3000/1\*BCiDdxRz34zBj7tRRV8psQ.png)
 
 Tôi sẽ giả thuyết rằng các bạn đã biết về những thứ sau đây trước khi bắt đầu bài tập phát triển này:
 
@@ -54,7 +54,7 @@ Xem xét trường hợp ta có một trang web được lưu trữ trên máy c
 > Trong c ++ hoặc java, ta biên dịch mã và nhận mã nhị phân để thực thi . Mã byte cũng tương tự như vậy. Nó được sử dụng để triển khai smart contract trên Blockchain  
 > ABI giúp web3Js trong việc giao tiếp với Blockchain. Vì code của chúng ta không biết cấu trúc chính xác của Blockchain. Cấu trúc ở đây là tên, input, output và loại hàm.
 
-<img alt="" class="t u v ie aj" src="https://miro.medium.com/max/1800/1\*8Uqjv-7cSc5H629wZv9BdQ.jpeg" width="900" height="430" srcSet="https://miro.medium.com/max/552/1\*8Uqjv-7cSc5H629wZv9BdQ.jpeg 276w, https://miro.medium.com/max/1000/1\*8Uqjv-7cSc5H629wZv9BdQ.jpeg 500w" sizes="500px" role="presentation"/>
+![](https://miro.medium.com/max/1800/1\*8Uqjv-7cSc5H629wZv9BdQ.jpeg)
 
 > ABI nói với frontent code: bất cứ khi nào bạn nói chuyện với Blockchain, hãy sử dụng tôi để truy cập bất kỳ đối tượng cụ thể nào trong code solidity được triển khai trong Blockchain đó.
 
@@ -141,13 +141,13 @@ Javascript code trong front-end
 
 Nếu mọi thứ ổn, bạn sẽ thấy hiển thị như sau trong trình duyệt web của bạn
 
-<img alt="" class="t u v ie aj" src="https://miro.medium.com/max/1994/1\*h8Cq5V4jDlzckyBMPK-BHg.png" width="997" height="384" srcSet="https://miro.medium.com/max/552/1\*h8Cq5V4jDlzckyBMPK-BHg.png 276w, https://miro.medium.com/max/1104/1\*h8Cq5V4jDlzckyBMPK-BHg.png 552w, https://miro.medium.com/max/1280/1\*h8Cq5V4jDlzckyBMPK-BHg.png 640w, https://miro.medium.com/max/1400/1\*h8Cq5V4jDlzckyBMPK-BHg.png 700w" sizes="700px" role="presentation"/>
+![](https://miro.medium.com/max/1994/1\*h8Cq5V4jDlzckyBMPK-BHg.png)
 
 **Lưu ý:** Bất kỳ lúc nào khi gọi 1 hàm hoặc thực hiện một giao dịch, hãy chắc chắn rằng node của bạn vẫn đang khai thác trên giao diện điều khiển Geth, bởi vì mọi giao dịch cần phải bao gồm trong đó Blockchain. Vì đó, mãi tới lúc ta bắt đầu khai thác, về cơ bản thì sẽ không có ai xác thực giao dịch của chúng ta và thêm vào Blockchain.
 
 Xem lại bức ảnh dưới đây một lần nữa, sau khi đọc hết bài viết, bạn sẽ cảm thấy dễ tiếp thu hơn khi nhìn lại nó:
 
-<img alt="" class="t u v ie aj" src="https://miro.medium.com/max/3000/1\*BCiDdxRz34zBj7tRRV8psQ.png" width="1500" height="801" srcSet="https://miro.medium.com/max/552/1\*BCiDdxRz34zBj7tRRV8psQ.png 276w, https://miro.medium.com/max/1104/1\*BCiDdxRz34zBj7tRRV8psQ.png 552w, https://miro.medium.com/max/1280/1\*BCiDdxRz34zBj7tRRV8psQ.png 640w, https://miro.medium.com/max/1400/1\*BCiDdxRz34zBj7tRRV8psQ.png 700w" sizes="700px" role="presentation"/>
+![](https://miro.medium.com/max/3000/1\*BCiDdxRz34zBj7tRRV8psQ.png)
 
 **Kết luận:** Với những người vừa mới học Blockchain, vui lòng đừng sử dụng toàn bộ công cụ, lối tắt, công trình khung để phát triển dự án của mình. Hãy học mọi thứ từ gốc rễ vì điều đó sẽ tốt cho sự phát triển lâu dài của bạn. Một nền móng tốt sẽ là cơ sở vững chắc cho một công trình đồ sộ!
 
