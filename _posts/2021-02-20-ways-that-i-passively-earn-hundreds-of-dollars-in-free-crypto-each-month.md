@@ -67,15 +67,13 @@ Every penny I’ve earned from Noise has gone directly to my Celsius BCH wallet, w
 
 I’ve been pleased with Celsius, and I’ve moved portions of several other assets there, namely BTC, BAT, and MATIC. They also have attractive rates on stablecoins — currently more than 8% — so I keep some USDC there, too.
 
-#6 BlockFi (BTC, LINK, USDC)
-----------------------------
+###6 BlockFi (BTC, LINK, USDC)
 
 [BlockFi](https://blockfi.com/) is very similar to Celsius but with different rates and a smaller selection of supported cryptocurrencies. I keep BTC, LINK, and USDC with them and earn rewards that compound daily by that are paid out monthly.
 
 I’m excited about BlockFi because of their upcoming rewards Visa card. I was on the fence about it because of the high annual fee, but they recently announced that [the annual fee is being scratched](https://blockfi.com/blockfi-announces-no-annual-fee-and-updated-benefits-for-the-blockfi-rewards) — so now it feels like a no-brainer. In addition to getting BTC rewards on all purchases, there are other perks like increased interest rates on stablecoins kept at BlockFi.
 
-#7 ViperSwap (ONE, VIPER, CAKE, SUSHI)
---------------------------------------
+###7 ViperSwap (ONE, VIPER, CAKE, SUSHI)
 
 So, you know how Ethereum is really cool with all its defi glory, but it’s not so friendly because of the high transaction fees and slow speed due to network congestion? Harmony Protocol solves all that, and [ViperSwap](https://viper.exchange/) is a Uniswap v2 clone on Harmony.
 
@@ -83,8 +81,7 @@ I was fortunate enough to get in very early on ViperSwap when [it was possible t
 
 It should be noted that 95% of earned rewards are locked until December 2021, at which point they gradually begin unlocking, but it’s worth the risk, in my opinion. I keep small amounts of ONE/CAKE and ONE/SUSHI pairs in the liquidity pools (LP). These earn small returns from swap fees, but I stake the LP tokens to earn more than 1,000% APY paid in VIPER, which is subject to the aforementioned locking rules.
 
-#8 PancakeSwap (CAKE, BNB, REEF, LIT)
--------------------------------------
+###8 PancakeSwap (CAKE, BNB, REEF, LIT)
 
 If you’ve been paying attention, you might’ve noticed that I’m earning CAKE in a few different places, and that’s because I _really_ like [PancakeSwap](https://pancakeswap.finance/).
 
@@ -92,29 +89,25 @@ The thing I love most about PancakeSwap is their Syrup Pools, which allow you to
 
 PancakeSwap is also a great place to swap cryptos away from centralized exchanges because of its relative maturity and being on Binance Smart Chain, making it a cheaper alternative to options on Ethereum such as Uniswap.
 
-#9 Guarda (ONE, ATOM, ETH, ADA)
--------------------------------
+###9 Guarda (ONE, ATOM, ETH, ADA)
 
 I had a handful of coins that were sitting idle that I wanted to earn more with, and somehow I found my way to [Guarda Wallet](https://guarda.com/). Guarda allows you to earn by [delegating stake for many coins](https://guarda.com/staking/), and I earn excellent rates (5–10% or more) on ONE, ATOM, and ADA.
 
 Guarda also provides eth2 staking by swapping ETH to GETH, which can then be traded freely on Uniswap. However, instead of exchanging ETH for GETH directly with Guarda, you can get it from Uniswap and make some [really great gains](https://medium.com/this-crypto-life/how-i-turned-1-eth-into-1-5-eth-in-one-swap-78b07634bdbc). Once you have GETH in your wallet, you’ll receive staking rewards monthly in the form of more GETH deposited directly to your wallet. Once Ethereum 2.0 reaches its next phase, you will be able to exchange GETH back to ETH 1:1.
 
-#10 SushiSwap (MATIC, ETH, SUSHI)
----------------------------------
+###10 SushiSwap (MATIC, ETH, SUSHI)
 
 [SushiSwap](https://app.sushi.com/) caught my attention by first showing up on Harmony Protocol and then on Polygon’s Matic network. As a participant in Polygon’s “DeFi Summer” promotion, SushiSwap users were able to earn double yield rewards in the form of SUSHI and MATIC tokens.
 
 I provide liquidity to the MATIC/ETH pool, which earns fees for swaps, and I stake the LP token to earn additional SUSHI and MATIC tokens, currently with an APY of 62%.
 
-#11 Gemini (BCH, LINK, SUSHI)
------------------------------
+###11 Gemini (BCH, LINK, SUSHI)
 
 [Gemini](https://exchange.gemini.com/) is the exchange created by Tyler and Cameron Winklevoss. Their Earn program isn’t so different than what’s offered by Celsius and BlockFi, but I like that the Winklevosses are focused on security and compliance, which [I wrote about previously](https://medium.com/this-crypto-life/is-gemini-earn-the-safest-way-to-grow-your-crypto-bag-5fb1d351d63). The Earn program functions similarly to staking. Essentially, you allocate assets to your Earn account and begin earning rewards.
 
 The other thing I like about Gemini is that you can configure recurring purchases to go directly into your Earn accounts, which is perfect for dollar-cost averaging. I stashed some SUSHI here to grow over time, and I make small weekly purchases of both BCH and LINK. It’s a small, silly thing, but you can’t do that with BlockFi or Celsius. Learn how to get a sign-up bonus from Gemini [here](https://adamprescott.medium.com/i-personally-use-gemini-the-exchange-launched-by-tyler-and-cameron-winklevoss-9e07bf6dba56).
 
-#12 Kraken (DOT)
-----------------
+###12 Kraken (DOT)
 
 The final entry on my list is another exchange, [Kraken](https://www.kraken.com/). The only reason I use Kraken is to stake Polkadot (DOT), which earns 12%. I convert half of my earnings from Cake DeFi to DOT and send them to Kraken for staking.
 

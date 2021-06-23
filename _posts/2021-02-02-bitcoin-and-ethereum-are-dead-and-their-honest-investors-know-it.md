@@ -9,7 +9,7 @@ image: assets/images/dodge.jpg
 ## Bitcoin and Ethereum Are Dead (And Their Honest Investors Know It)
 
 The $1+ trillion concept is brilliant, but it won’t end well
-------------------------------------------------------------
+============================================================
 
 [
 
