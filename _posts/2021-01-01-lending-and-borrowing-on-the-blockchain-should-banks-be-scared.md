@@ -6,8 +6,7 @@ categories: [ Lifestyle ]
 image: assets/images/dodge.jpg
 ---
 
-**Lending and borrowing on the blockchain — should banks be scared?**
-=====================================================================
+## **Lending and borrowing on the blockchain — should banks be scared?**
 
 Blockchain is often associated with the future of finance, but in the case of lending, could it actually take us back in time?
 ------------------------------------------------------------------------------------------------------------------------------
@@ -134,11 +133,3 @@ What do you think about blockchain based lending and borrowing? I’d love to disc
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-You can get more details and track the projects mentioned above using [Trivial’s token discovery platform](https://www.trivial.co/) — I recommend it as a launch pad for researching new projects!
-
-Some of the cool things you can do with it:
-
-*   **Find out key token info** — whitepaper, team, social media, usage stats, etc.
-*   **Discover tokens** by category, and find related tokens
-*   **Check out top holders** of any token
-*   **Stay up to date with news and blogs**
