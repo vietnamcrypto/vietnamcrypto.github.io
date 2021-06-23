@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bitcoin And Ethereum Are Dead And Their Honest Investors Know It"
-date: 2021-02-02
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg

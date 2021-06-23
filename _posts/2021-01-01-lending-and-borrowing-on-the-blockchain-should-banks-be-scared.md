@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Lending And Borrowing On The Blockchain Should Banks Be Scared"
-date: 2021-01-01
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg

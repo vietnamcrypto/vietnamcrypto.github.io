@@ -100,7 +100,6 @@ if __name__ == "__main__":
             f"""---
 layout: post
 title: "{title.replace('-', ' ').title()}"
-date: {date}
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg

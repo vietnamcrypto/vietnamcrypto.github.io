@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Defi Infrastructure 101 Overview Market Landscape"
-date: 2021-03-01
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg
