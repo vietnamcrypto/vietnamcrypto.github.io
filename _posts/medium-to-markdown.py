@@ -97,15 +97,16 @@ if __name__ == "__main__":
             new_content = new_content.replace(original, replacement)
 
         new_content = (
-            f"""--- 
+            f"""---
 layout: post
 title: "{title.replace('-', ' ').title()}"
 author: sal
 categories: [ Lifestyle ]
-image: assets/images/dodge.jpg
+image: assets/images/nft.png
+rating: 5
 ---
 """
-            + new_content
+            + new_content 
         )
         # Save the modified post
         with open(post_file_name, "w") as fout:

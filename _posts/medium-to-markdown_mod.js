@@ -1,6 +1,6 @@
 const mediumToMarkdown = require('medium-to-markdown');
  
-mediumToMarkdown.convertFromUrl("https://medium0.com/j29creative/tokens-and-nfts-may-point-us-to-the-future-of-the-digital-world-4a5b014da1ee")
+mediumToMarkdown.convertFromUrl("https://medium0.com/predict/decrypting-nfts-9a336b5162ea")
 .then(function (markdown) {
   console.log(markdown); //=> Markdown content of medium post
 });
