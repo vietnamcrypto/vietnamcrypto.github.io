@@ -7,7 +7,6 @@ image: assets/images/dodge.jpg
 ---
 
 Disruptive Innovation | Blockchain Technology
----------------------------------------------
 
 **Tokens and NFTs may Point Us to the Future of the Digital World**
 ===================================================================
