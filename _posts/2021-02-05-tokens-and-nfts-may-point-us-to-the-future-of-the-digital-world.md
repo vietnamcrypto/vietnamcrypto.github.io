@@ -6,8 +6,6 @@ categories: [ Lifestyle ]
 image: assets/images/dodge.jpg
 ---
 
- [![](https://img.goshopback.vn/0mLwQZ7E87E/rs:fit/w:1000/h:0/g:ce/el:1/q:75/bl:0/aHR0cHM6Ly9jbG91ZC5zaG9wYmFjay5jb20vaW1hZ2UvdXBsb2FkL3YxNTk5MDY2MjE4L2FwcC1hc3NldHMvVk4vVk5fUE9XRVIvUkFGJTIwTmV3L0FwcC9OZXclMjBOZXcvU2xpY2UxXzQucG5n.jpg)](https://app.shopback.com/l1H1ILbdmdb) 
-
 Disruptive Innovation | Blockchain Technology
 ---------------------------------------------
 
@@ -111,22 +109,3 @@ This is a new way to seek financial and commercial growth online.
 Will tokenization and NFTs stay long enough to be anchored into our future? The core team at [Bottomsup Perspectives](https://bottomsupperspective.com/) isn’t smart enough to tell. However, we will actively experiment in the capacity of digital marketers.
 
 The future can be exciting if we choose to be excited by it.
-
-**Aldric**
-
-**About the Author:**
-
-As a content contributor, I write my observations from daily life and my business exposure. Because our life experience is the bedrock of our unique perspectives.
-
-**Do reach out and say hi on** [Linkedin](https://www.linkedin.com/in/connect-with-aldric/) **and** [Twitter](https://twitter.com/aldric_chen)**!**
-
-[
-
-An Author’s Bio on ILLUMINATION — I Read and Write. Now, I Type.
-----------------------------------------------------------------
-
-### I am Aldric and I am a reader.
-
-medium.com
-
-](https://medium.com/illumination/an-authors-bio-on-illumination-i-read-and-write-now-i-type-a34452a2e96e)
