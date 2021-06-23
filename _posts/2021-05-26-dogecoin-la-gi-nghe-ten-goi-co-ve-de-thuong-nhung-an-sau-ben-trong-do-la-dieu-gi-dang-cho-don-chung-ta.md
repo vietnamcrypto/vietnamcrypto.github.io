@@ -4,6 +4,7 @@ title:  "Dogecoin là gì? Nghe tên gọi có vẻ dễ thương nhưng ẩn s�
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/dodge.jpg
+rating: 4.5
 ---
 ### Sơ lược về Dogecoin
 Ra mắt vào ngày 8 tháng 12 năm 2013, Dogecoin là một loại tiền tệ kĩ thuật số phi tập trung được phát triển dựa trên nền tảng Litecoin. 
