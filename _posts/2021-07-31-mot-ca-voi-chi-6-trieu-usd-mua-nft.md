@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Quỹ 45 tỷ USD đầu tư Bitcoin, giá BTC bật lên 42.000 USD"
+title:  "Một cá voi chi 6 triệu USD mua NFT"
 author: sal
 categories: [ Lifestyle ]
 image: assets/images/mot-ca-voi-chi-6-trieu-usd-mua-nft-2048x1365.jpeg
 rating: 5
 ---
-# Một cá voi chi 6 triệu USD mua NFT
 
 **Thị trường NFT sôi động trở lại khi nhiều cá voi đang ra sức chi tiền mua các NFT.**
 
