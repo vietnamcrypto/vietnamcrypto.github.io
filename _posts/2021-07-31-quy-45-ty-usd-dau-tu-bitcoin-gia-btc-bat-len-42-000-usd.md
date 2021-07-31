@@ -6,6 +6,13 @@ categories: [ Lifestyle ]
 image: assets/images/GoldenTree-dau-tu-bitcoin-gia-btc-phuc-hoi-42000-usd-632x420.jpg
 rating: 5
 ---
+<meta property="og:image" content="http://www.coachesneedsocial.com/wp-content/uploads/2014/12/BannerWCircleImages-1.jpg" />
+
+<meta property="og:description" content="Coaches share their secrets to success so you can rock 2015. Join us for this inspiring, rejuvenating, motivating look at what secret sauce these coaches use to succeed in their business. This is for coaches of any level that are committed to changing the world. You will be elevated both in your life and your coaching business. Check out the topics below, there is something for everyone." />
+
+<meta property="og:url"content="http://www.coachesneedsocial.com/coacheswisdomtelesummit/" />
+
+<meta property="og:title" content="Coaches Wisdom Telesummit" />
 
 Giá Bitcoin trong sáng nay đạt mức cao 42.300 USD sau thông tin quỹ đầu cơ GoldenTree mua vào Bitcoin.
 
